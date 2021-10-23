@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/fm_sunnyside_landing-page/static/js/main.95ef4492.chunk.js",
+    "main.js.map": "/fm_sunnyside_landing-page/static/js/main.95ef4492.chunk.js.map",
+    "runtime-main.js": "/fm_sunnyside_landing-page/static/js/runtime-main.73bb8cac.js",
+    "runtime-main.js.map": "/fm_sunnyside_landing-page/static/js/runtime-main.73bb8cac.js.map",
+    "static/js/2.cc7d64c4.chunk.js": "/fm_sunnyside_landing-page/static/js/2.cc7d64c4.chunk.js",
+    "static/js/2.cc7d64c4.chunk.js.map": "/fm_sunnyside_landing-page/static/js/2.cc7d64c4.chunk.js.map",
+    "index.html": "/fm_sunnyside_landing-page/index.html",
+    "static/js/2.cc7d64c4.chunk.js.LICENSE.txt": "/fm_sunnyside_landing-page/static/js/2.cc7d64c4.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow-down.979ef07a.svg": "/fm_sunnyside_landing-page/static/media/icon-arrow-down.979ef07a.svg",
+    "static/media/icon-hamburger.7764b7eb.svg": "/fm_sunnyside_landing-page/static/media/icon-hamburger.7764b7eb.svg",
+    "static/media/image-gallery-cone.461ff421.jpg": "/fm_sunnyside_landing-page/static/media/image-gallery-cone.461ff421.jpg",
+    "static/media/image-gallery-milkbottles.df1d9d84.jpg": "/fm_sunnyside_landing-page/static/media/image-gallery-milkbottles.df1d9d84.jpg",
+    "static/media/image-gallery-orange.49f4212b.jpg": "/fm_sunnyside_landing-page/static/media/image-gallery-orange.49f4212b.jpg",
+    "static/media/image-gallery-sugarcubes.09b72f4f.jpg": "/fm_sunnyside_landing-page/static/media/image-gallery-sugarcubes.09b72f4f.jpg",
+    "static/media/image-graphic-design.09c20c2d.jpg": "/fm_sunnyside_landing-page/static/media/image-graphic-design.09c20c2d.jpg",
+    "static/media/image-graphic-design.7ac8bdf0.jpg": "/fm_sunnyside_landing-page/static/media/image-graphic-design.7ac8bdf0.jpg",
+    "static/media/image-header.49b52ffa.jpg": "/fm_sunnyside_landing-page/static/media/image-header.49b52ffa.jpg",
+    "static/media/image-header.9167cda0.jpg": "/fm_sunnyside_landing-page/static/media/image-header.9167cda0.jpg",
+    "static/media/image-photography.104cf40b.jpg": "/fm_sunnyside_landing-page/static/media/image-photography.104cf40b.jpg",
+    "static/media/image-photography.26df83b3.jpg": "/fm_sunnyside_landing-page/static/media/image-photography.26df83b3.jpg",
+    "static/media/logo.4271b899.svg": "/fm_sunnyside_landing-page/static/media/logo.4271b899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bb8cac.js",
+    "static/js/2.cc7d64c4.chunk.js",
+    "static/js/main.95ef4492.chunk.js"
+  ]
+}
